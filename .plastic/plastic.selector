@@ -1,0 +1,4 @@
+repository "Trade Game@Slowline9@cloud"
+  path "/"
+    br "/main"
+    co "/main"
